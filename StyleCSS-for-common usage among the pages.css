@@ -14,9 +14,9 @@ p2 {
 }
 
 
-#ah{background-color: greenyellow;}
-#aa{background-color:lightblue;}
-#ae{background-color:lightgrey;}
+#ah{background-color: greenyellow; font-style: italic; font-size: large; font-weight: bold;}
+#aa{background-color:lightblue; font-style:oblique; font-size: medium; font-weight:bolder; }
+#ae{background-color:lightgrey; font-style:inherit; font-size:x-small; font-weight:lighter; }
 
-.A{background-color:aqua;}
-.B{background-color:azure;}
+.A{background-color:aqua; font-style: italic; font-size: large; font-weight: bold;}
+.B{background-color:lightgrey; font-style:inherit; font-size:x-small; font-weight:lighter; }
