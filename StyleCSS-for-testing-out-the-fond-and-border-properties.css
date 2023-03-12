@@ -1,0 +1,26 @@
+
+
+
+
+
+#ah{background-color: greenyellow; font-style: italic; font-size: large; font-weight: bold;}
+#aa{background-color:lightblue; font-style:initial; font-size: medium; font-weight:bolder; }
+#ae{background-color:lightgrey; font-style:inherit; font-size:x-small; font-weight:lighter; }
+
+.A{background-color:aqua; font-style: italic; font-size: large; font-weight: bold;}
+.B{background-color:lightgrey; font-style:calc(98); font-size:x-small; font-weight:lighter; }
+
+
+#one{
+        border-top: 1cm; border-left-color: black; border-left-width: 1cm; border-bottom: 0.5cm;border-bottom-color: blue; border-right-width: 0.5cm; border-right-style: outset;
+    }
+
+    #two{
+        border-top: 1cm; border-left-color: black; border-left-width: 1cm; border-bottom: 0.5cm;border-bottom-color: blue; border-right-width: 0.5cm; border-right-style: outset;
+    }
+    #three{
+        border-top: 1cm; border-left-color: black; border-left-width: 1cm; border-bottom: 0.5cm;border-bottom-color: blue; border-right-width: 0.5cm; border-right-style: outset;
+    }
+.classA{}
+
+.classB{}
