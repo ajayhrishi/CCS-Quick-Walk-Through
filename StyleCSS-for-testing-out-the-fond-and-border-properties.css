@@ -12,15 +12,15 @@
 
 
 #one{
-        border-top: 1cm; border-left-color: black; border-left-width: 1cm; border-bottom: 0.5cm;border-bottom-color: blue; border-right-width: 0.5cm; border-right-style: outset;
+         border-color: black; padding: 5px; border-style: dotted;
     }
 
     #two{
-        border-top: 1cm; border-left-color: black; border-left-width: 1cm; border-bottom: 0.5cm;border-bottom-color: blue; border-right-width: 0.5cm; border-right-style: outset;
+        border-color: blue; padding: 10px; border-style:dashed;
     }
     #three{
-        border-top: 1cm; border-left-color: black; border-left-width: 1cm; border-bottom: 0.5cm;border-bottom-color: blue; border-right-width: 0.5cm; border-right-style: outset;
+        border-color: red; padding: 16px; border-style:ridge; 
     }
-.classA{}
+.classA{border-color: red; padding: 16px; border-style:ridge;  }
 
-.classB{}
+.classB{border-color: black; padding: 5px; border-style: dotted }
