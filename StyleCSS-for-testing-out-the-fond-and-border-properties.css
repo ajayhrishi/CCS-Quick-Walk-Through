@@ -1,6 +1,6 @@
 
 
-
+body{background-image: url(Image.jpg);}
 
 
 #ah{background-color: greenyellow; font-style: italic; font-size: large; font-weight: bold;}
@@ -21,6 +21,6 @@
     #three{
         border-color: red; padding: 16px; border-style:ridge; 
     }
-.classA{border-color: red; padding: 16px; border-style:ridge;  }
+.classA{border-color: gray; padding: 16px; border-style:ridge;  }
 
-.classB{border-color: black; padding: 5px; border-style: dotted }
+.classB{border-color: orange; padding: 5px; border-style: ridge }
