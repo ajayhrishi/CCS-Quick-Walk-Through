@@ -1,6 +1,10 @@
 
 
-body{background-image: url(Image.jpg);}
+body{background-image: url(Image.jpg);
+     background-position: center;
+
+
+}
 
 
 #ah{background-color: greenyellow; font-style: italic; font-size: large; font-weight: bold;}
