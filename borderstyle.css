@@ -1,3 +1,21 @@
 body{margin-left: 50px;
 margin-top: 50px;
-margin-bottom: 100px;}
+margin-bottom: 100px;
+background-color: azure;
+}
+
+#box1{
+    border: 5px solid;
+    padding: 10px;
+    background-color: aqua;
+}
+
+#box2{
+    border: 5px solid;
+    padding: 10px;
+    background-color: aquamarine;
+}
+
+#box3{ border: 5px solid;
+    padding: 10px; 
+    background-color: beige;}
