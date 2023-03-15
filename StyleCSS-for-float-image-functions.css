@@ -1,0 +1,13 @@
+.box{
+width: 200px;
+height: 180px;
+border: 1px solid;
+border-color: black;
+font-size: 25;
+text-align: center;
+background-color: aqua;
+
+float: left;
+
+
+}
