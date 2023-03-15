@@ -7,7 +7,32 @@ font-size: 25;
 text-align: center;
 background-color: aqua;
 
-float: left;
+float: right;
 
 
 }
+
+img{height: 300px;
+width: 400px;}
+
+p{clear: right;} /* 1. To test how the inline comment section works in CSS sheet */ 
+                 /* 2. To Test how the clear function avoid the float functionality to a spesifc corner of the page*/
+
+
+#AA{position: relative;  /*to test the relative position on the page. This function will help overlap the position over the other contents*/
+    top: 225px;
+    right:100px;
+}
+
+#AB{ position:fixed;   /* This function will help to keep the element in a side of the of the sheet no matter to where you do scroll */
+    top: 0px; 
+    right:0px; 
+   
+}
+#AC{ position:sticky;  /* This function will help to keep the element in a side of the of the sheet no matter to where you do scroll, but the depends on to 
+                          where we do scroll, it's alignment can vary  */
+    bottom: 0px; 
+    top:0px; 
+    right: 0px;
+    left: 0px;}
+
