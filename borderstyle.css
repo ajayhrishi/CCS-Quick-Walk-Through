@@ -1,20 +1,22 @@
-body{margin-left: 50px;
-margin-top: 50px;
-margin-bottom: 100px;
-background-color: azure;
+body{margin-left: 50px; 
+margin-top: 50px; 
+margin-bottom: 100px; 
+background-color: azure; 
 }
-.A{border: 5px solid;
-    padding: 10px; font-weight: bold; }
+.A{border: 5px solid; 
+    padding: 10px; font-weight: bold;
+    width: 500px; height: auto; 
+} 
 
-#box1{ background-color: aqua;  }
-#box2{ background-color: aquamarine;}
-#box3{ background-color: rgb(189, 189, 12);  }
-#box4{ background-color: rgb(52, 243, 14);  }
-#box5{ background-color: rgb(13, 183, 250);  }
-#box6{ background-color: rgb(197, 195, 233);  }
-#box7{ background-color: rgb(238, 195, 252);  } 
-#box8{ background-color: rgb(233, 183, 183);  }
-#box9{ background-color: rgb(240, 240, 187);  } 
-#box10{ background-color: rgb(163, 187, 165); } 
-#box11{ background-color: rgb(114, 114, 103); } 
-#box12{ background-color: rgb(185, 162, 183); } 
+#box1{ background-color: aqua; margin-left: auto; } 
+#box2{ background-color: aquamarine;margin-right: auto;} 
+#box3{ background-color: rgb(189, 189, 12); margin-left: auto; } 
+#box4{ background-color: rgb(52, 243, 14);  margin-left: auto; } 
+#box5{ background-color: rgb(13, 183, 250); margin-right: auto; margin-left: auto; } 
+#box6{ background-color: rgb(197, 195, 233); margin-left: auto; } 
+#box7{ background-color: rgb(238, 195, 252); margin-right: auto; } 
+#box8{ background-color: rgb(233, 183, 183);  margin-left: auto;} 
+#box9{ background-color: rgb(240, 240, 187); margin-right: auto;margin-left: auto;  } 
+#box10{ background-color: rgb(163, 187, 165);margin-left: auto; } 
+#box11{ background-color: rgb(114, 114, 103);margin-right: auto; } 
+#box12{ background-color: rgb(185, 162, 183); margin-bottom: auto; } 
