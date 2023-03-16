@@ -21,6 +21,6 @@
 li:nth-child(even):hover {color: rgb(158, 7, 78);
 text-shadow: 5px 5px 16px yellow;
 text-shadow: 5px 0px 5px orange;
-
 }
-li:nth-child(odd) {background-color: skyblue;}
+
+li:nth-child(odd):hover           {background-color: skyblue;}
