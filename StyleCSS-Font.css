@@ -1,4 +1,15 @@
 .fa-sharp{ font-size: 50px; padding: 20px;}
-.fa-solid{ font-size: 50px; padding: 20px; color: rgb(194, 30, 44);}
-#AA{font-size: 50px; padding: 20px; color: green;}
-#AB{font-size: 50px; padding: 20px;}
+#AC{ font-size: 50px; padding: 20px; color: rgb(194, 30, 44);  transform:translate(100px,-90px);}
+
+
+
+#AA{font-size: 50px; padding: 20px; color: green; transform:translate(300px,-270px);
+   
+
+
+
+} 
+
+#AB{font-size: 50px; padding: 20px;
+    transform:translate(200px,-180px);
+}
