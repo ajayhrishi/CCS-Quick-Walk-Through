@@ -2,8 +2,8 @@
        a{font-size: large;}
        
       /*  a:active{color: rgb(99, 99, 50); font-size: larger;} 
-      /* */  a:hover{color: rgb(167, 59, 17);font-size: larger;} 
-      /*   a:active{color: rgb(7, 38, 214);font-size: larger;} 
+      /*  a:hover{color: rgb(167, 59, 17);font-size: larger;} 
+      /* */   a:visited{color: rgb(7, 38, 214);font-size: larger;} 
       /*   a:active{color: rgb(138, 0, 96);font-size: larger;} 
       /*  a:active{color: rgb(235, 66, 0);font-size: larger;} 
       /*  a:active{color: rgb(0, 0, 0);font-size: larger;} 
